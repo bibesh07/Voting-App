@@ -1,0 +1,19 @@
+﻿#navBar {
+    background: #1890ff;
+    color: white;
+    border-bottom-color: #1890ff;
+    z-index:1 !important
+}
+
+#brand {
+    color: white !important;
+}
+
+/*.carouselImage {
+    display: block;
+    height: 10%;
+    max-width: 100%;
+    line-height: 1;
+    margin: auto;
+    width: 100%;
+}*/
