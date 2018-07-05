@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingApp.Web", "VotingApp.Web\VotingApp.Web.csproj", "{62EB6A15-F37E-4D6A-A827-C74EF3624D60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VotingApp.Web", "VotingApp.Web\VotingApp.Web.csproj", "{62EB6A15-F37E-4D6A-A827-C74EF3624D60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingApp.Core", "VotingApp.Core\VotingApp.Core.csproj", "{85FD5DB7-E24A-45D1-B99F-6528D4F2B00F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VotingApp.Core", "VotingApp.Core\VotingApp.Core.csproj", "{85FD5DB7-E24A-45D1-B99F-6528D4F2B00F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
